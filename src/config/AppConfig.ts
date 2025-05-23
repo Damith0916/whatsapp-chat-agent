@@ -1,0 +1,8 @@
+export const AppConfig = {
+    WHATSAPP_CHALLENGE_KEY: process.env.WHATSAPP_CHALLENGE_KEY,
+    WHATSAPP_ACCESS_TOKEN: process.env.WHATSAPP_ACCESS_TOKEN,
+    WHATSAPP_PHONE_ID: process.env.WHATSAPP_PHONE_ID,
+    OWN_PHONE_NUMBER: process.env.OWN_PHONE_NUMBER,
+    OPENAI_API_KEY: process.env.OPENAI_API_KEY,
+
+}
